@@ -7,6 +7,8 @@ However there was a difference between the templates shown, the Music & SFX box.
 
 The template includes symbols so it is easier to work with it.
 
+You can also take a look at the PDF file for a preview of what the template is.
+
 I hope you find it useful.
 
 If you find any errors or have suggestions, feel free to reach out. :D
